@@ -53,7 +53,7 @@
 ---
 
 #### ✅ 친구 기능
-
+git 
 11. **친구 검색**
     - Method: GET  
     - URL: `/friend/search?nickname={nickname}`

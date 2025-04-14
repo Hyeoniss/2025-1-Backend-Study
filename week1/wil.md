@@ -74,3 +74,7 @@ git
 15. **특정 친구의 할 일 조회**
     - Method: GET  
     - URL: `/friend/{friend_id}/todo/list`
+   
+
+![image](https://github.com/user-attachments/assets/bfd2f709-ddd6-4aba-a6f9-ad5718cd7a9a)
+

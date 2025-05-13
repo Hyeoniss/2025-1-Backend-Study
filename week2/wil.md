@@ -10,3 +10,5 @@
 출력 결과로 controller, service, repository가 순서대로 나타났고, 이는 빈 등록 및 의존성 주입이 정상적으로 이루어졌음을 의미한다.
 
 
+![스크린샷(2387)](https://github.com/user-attachments/assets/e40ad1e0-776a-4a21-92e3-91ca5413be7e)
+![스크린샷(2388)](https://github.com/user-attachments/assets/03dac106-8b30-4e9e-a809-fb09501a378e)
